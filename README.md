@@ -1,16 +1,16 @@
 # Java - Spring-Boot
 *First Steps - viewing "Hello, World!"* 
 
-## Deploy - app error, build gelukt
+## Deploy
 
 Bekijk de [APP LIVE](https://springboot-demo-b8381ea94e1b.herokuapp.com) op Heroku.
 
 ## Doel
 
 Kennismaken met Spring-Boot: 
-- simpele app (1 class) maken - gelukt
-- lokaal weergeven in browser - gelukt
-- deployen op Heroku - gelukt
+- simpele app (1 class) maken
+- lokaal weergeven in browser
+- deployen op Heroku
 
 ## Technologie
 
