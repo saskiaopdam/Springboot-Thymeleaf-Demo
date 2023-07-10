@@ -12,6 +12,10 @@ Kennismaken met Spring-Boot:
 - lokaal weergeven in browser
 - deployen op Heroku
 
+### Uitzoeken
+- stylen met css - opties?
+Alle info wijst naar javafx, maar mijn app bestaat al.
+
 ## Technologie
 
 - Java
