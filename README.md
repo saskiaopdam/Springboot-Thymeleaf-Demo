@@ -1,7 +1,7 @@
 # Java - Spring-Boot
 *First Steps - viewing "Hello, World!"* 
 
-## Deploy - fail (build met Maven mislukt)
+## Deploy - app error, build gelukt
 
 Bekijk de [APP LIVE](https://springboot-demo-b8381ea94e1b.herokuapp.com) op Heroku.
 
@@ -10,7 +10,7 @@ Bekijk de [APP LIVE](https://springboot-demo-b8381ea94e1b.herokuapp.com) op Hero
 Kennismaken met Spring-Boot: 
 - simpele app (1 class) maken - gelukt
 - lokaal weergeven in browser - gelukt
-- deployen op Heroku - nog niet gelukt
+- deployen op Heroku - gelukt
 
 ## Technologie
 
