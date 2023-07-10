@@ -13,8 +13,7 @@ Kennismaken met Spring-Boot:
 - deployen op Heroku
 
 ### Uitzoeken
-- stylen met css - opties?
-Alle info wijst naar javafx, maar mijn app bestaat al.
+- stylen met css - opties (bestaande app)?
 
 ## Technologie
 
