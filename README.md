@@ -11,9 +11,11 @@ Kennismaken met Spring-Boot:
 - simpele app (1 class) maken
 - lokaal weergeven in browser
 - deployen op Heroku
+- formulier gebruiken voor invoer
+- styling toepassen
 
 ### Uitzoeken
-- stylen met css - opties (bestaande app)?
+- werken met html templates?
 
 ## Technologie
 
