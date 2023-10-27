@@ -3,7 +3,8 @@
 
 ## Deploy
 
-Bekijk de [APP LIVE](https://springboot-demo-b8381ea94e1b.herokuapp.com) op Heroku.
+- Heroku deploy is verwijderd (kosten)
+- [Hello Demo Video]([https://youtu.be/kooHEsm1vi0](https://youtu.be/eTuicEAM6g4))
 
 ## Doel
 
