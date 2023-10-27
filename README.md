@@ -4,7 +4,7 @@
 ## Deploy
 
 - Heroku deploy is verwijderd (kosten)
-- [Hello Demo Video]([https://youtu.be/kooHEsm1vi0](https://youtu.be/eTuicEAM6g4))
+- [Hello Demo Video](https://youtu.be/eTuicEAM6g4)
 
 ## Doel
 
