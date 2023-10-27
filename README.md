@@ -1,5 +1,5 @@
 # Java - Spring-Boot
-*First Steps - viewing "Hello, World!"* 
+*First Steps - viewing a greeting with your name* 
 
 ## Deploy
 
