@@ -3,11 +3,13 @@
 
 ## Deploy
 
-- [Heroku App](https://hello-world-springboot-angular-4c27e1e21141.herokuapp.com)
+- [Hello World App on Heroku](https://hello-world-springboot-angular-4c27e1e21141.herokuapp.com)
+
+"Hello-World app" met html template in frontend
 
 ## Oorspronkelijk project
 
-- [Heroku App](https://hello-you-springboot-2908d926200a.herokuapp.com)
+- [Hello You App on Heroku](https://hello-you-springboot-2908d926200a.herokuapp.com)
   
 "Hello-You app" met html template in backend
 
