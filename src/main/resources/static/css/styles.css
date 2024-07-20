@@ -3,7 +3,6 @@ html, body {
 }
 
 body {
-    background-color: beige;
     font-family: 'Inter', sans-serif;
     display: flex;
     flex-direction: column;
