@@ -5,6 +5,7 @@
 
 - [Hello World App](https://hello-world-springboot-angular-4c27e1e21141.herokuapp.com)
 
+### Doel
 "Hello-World app" met html template in frontend
 
 ## Oorspronkelijk project
