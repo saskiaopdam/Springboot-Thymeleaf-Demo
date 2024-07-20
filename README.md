@@ -3,8 +3,7 @@
 
 ## Deploy
 
-- Heroku deploy is verwijderd (kosten)
-- [Hello Demo Video](https://youtu.be/eTuicEAM6g4)
+- [Heroku App](https://spring-boot-demo-b049d8d59c8a.herokuapp.com/)
 
 ## Doel
 
