@@ -8,4 +8,4 @@
 - Endpoints accessed from index.html
 - Heroku config: system.properties + Procfile
 
-[Based on this App](https://dashboard.heroku.com/apps/springboot-base-demo)
+[Based on this App](https://springboot-base-demo-c3374dd33da0.herokuapp.com/)
