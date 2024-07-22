@@ -1,18 +1,13 @@
-# Java - Spring-Boot - Angular
-*Give original project an Angular front-end* 
+# Springboot Thymeleaf Demo
+Demo app with 2 endpoints, hosted on Heroku 
 
 ## Deploy
 
-- [Hello World App](https://hello-world-springboot-angular-4c27e1e21141.herokuapp.com)
+- [Heroku App](https://springboot-thymeleaf-demo-dfc4920e7ec1.herokuapp.com/)
 
-### Doel
-"Hello-World app" met html template in frontend
-
-## Oorspronkelijk project
+## Variant op:
 
 - [Hello You App](https://hello-you-springboot-2908d926200a.herokuapp.com)
-  
-"Hello-You app" met html template in backend
 
 ## Technologie
 
@@ -20,5 +15,19 @@
 - JDK (Java Development Kit)
 - Maven
 - Spring-Boot
-- Angular
+- Thymeleaf templates
 - Heroku Automated deploy van GitHub
+
+## Details
+
+### Endpoints:
+- /hello
+- /goodbye
+
+### Frontend:
+Static html file with hyperlinks to /hello and /goodbye in resources folder
+
+### Heroku config:
+system.properties: java.runtime.version
+Procfile: jar target folder
+pom.xml: java version
